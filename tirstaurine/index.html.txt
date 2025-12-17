@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tirstaurine</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/dark-mode.css">
+</head>
+<body>
+<header>
+  <div class="site-title">tirstaurine</div>
+  <nav>
+    <ul>
+      <li><a href="index.html">home</a></li>
+      <li><a href="music.html">music</a></li>
+      <li><a href="thoughts.html">thoughts</a></li>
+      <li><a href="archive.html">archive</a></li>
+      <li><a href="elsewhere.html">elsewhere</a></li>
+    </ul>
+  </nav>
+  <button id="theme-toggle">☀️</button>
+</header>
+
+<main>
+  <div class="card">
+    <h1>tirstaurine</h1>
+    <p>internet diary. fueled by rnb, late nights, and things i won’t explain.</p>
+    <p id="rotating-text">chaotic but intentional.</p>
+  </div>
+</main>
+
+<footer>
+  stay a while. makasih for coming 🤍
+</footer>
+
+<script src="assets/js/script.js"></script>
+</body>
+</html>
